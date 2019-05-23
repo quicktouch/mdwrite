@@ -8,3 +8,4 @@
 * [编辑器推荐](编辑器推荐/README.md)
 * [图床](图床/README.md)
 * [gitbook](gitbook/README.md)
+* [github pages 以及一些静态博客生成器](githubpages/README.md)

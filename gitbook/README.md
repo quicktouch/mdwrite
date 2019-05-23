@@ -72,7 +72,7 @@ gitbook serve
 
 ### 提交/发布
 
-- 可以直接分享gitbook链接
+- 可以直接分享gitbook链接,如:[https://tyrad.gitbook.io/mdwrite/](https://tyrad.gitbook.io/mdwrite/) 
 - 可以生成静态文件(`gitbook build --output=/tmp/gitbook`),部署到个人服务器或githubpages上
 - 可以导出pdf、epub、mobi
 
