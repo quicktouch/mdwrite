@@ -7,4 +7,4 @@
 
 [wiki](https://github.com/quicktouch/mdwrite/wiki)
 
-[gitbook](https://tyrad.gitbook.io/mdwrite/)
+[gitbook](https://tyrad.gitbook.io/mdwrite/) 

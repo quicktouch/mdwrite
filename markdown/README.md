@@ -10,3 +10,6 @@
 
 - markdown只是一种语法约定,具体显示效果与具体的 ***解析工具*** 以及  ***样式有关***。
 - 很多markdown编辑器支持直接显示html标签,因此更加灵活,如`<button>我是一个按钮</button>`。
+
+***markdown对html/js代码具有一定兼容性***,定制型很强   
+例如 hugo中的shortcodes,[示例](https://www.tyrad.cc/wiki/%E6%9D%82%E8%AE%B0/markdown-review/#uml)

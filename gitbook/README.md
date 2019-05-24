@@ -1,3 +1,4 @@
+# gitbook
 > gitbook是一个写作和出版的平台，他们使用的系统是开源的。支持Markdown和AsciiDoc格式，最后输出的是静态网页。
 
 知识是一个缓慢积累的过程，系统性的知识总结/教程,可用使用[gitbook](https://www.gitbook.com)发布成(共开/私有)的书籍。 
@@ -9,7 +10,11 @@
 ### 注册gitbook、并授权github仓库
 
 见图片。
+
+![20190524155866492724995.png](http://image.tyrad.cc/20190524155866492724995.png)
+
 设置为以github仓库为主,gitbook根据仓库的内容更新。
+![20190524155866499533672.png](http://image.tyrad.cc/20190524155866499533672.png)
 
 ### 安装gitbook-cli
 
@@ -72,7 +77,7 @@ gitbook serve
 
 ### 提交/发布
 
-- 可以直接分享gitbook链接,如:[https://tyrad.gitbook.io/mdwrite/](https://tyrad.gitbook.io/mdwrite/) 
+- 可以直接分享gitbook链接,如[https://tyrad.gitbook.io/mdwrite/](https://tyrad.gitbook.io/mdwrite/)
 - 可以生成静态文件(`gitbook build --output=/tmp/gitbook`),部署到个人服务器或githubpages上
 - 可以导出pdf、epub、mobi
 
